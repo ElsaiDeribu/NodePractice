@@ -1,0 +1,22 @@
+{
+  "name": "code-with-mosh-genre-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^1.31.0",
+    "express": "^4.17.3",
+    "fawn": "^2.1.5",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.4",
+    "mongoose": "^5.0.1"
+  }
+}
